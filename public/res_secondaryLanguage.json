@@ -1,19 +1,19 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Marco Simpliciano. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Deutsch",
+      "description": "👋 Hallo! Ich bin Marco! Jetzt studiere ich Softwareentwicklung mit Schwerpunkt Python-Programmierung. Mein Hintergrund liegt in der Hotel und Dienstleistungsbranche, wo ich fast 10 Jahre damit verbracht habe, technische und zwischenmenschliche Fähigkeiten zu verbessern, die mich zu einem großartigen Redner, Zuhörer und mitfühlenden Vertrauten machen. Ich habe ein Händchen für den Fremdsprachenerwerb; Ich liebe es zu reisen und etwas über unseren Planeten und die Menschen, die darauf leben, zu lernen. Ich möchte anderen helfen, und außerhalb meiner Freiwilligenarbeit möchte ich meiner Gemeinschaft und der Welt insgesamt dienen, indem ich meine Fähigkeit zuzuhören, schnell zu lernen, zu kreieren, zu planen und auszuführen, einsetze. Ich möchte, dass Programmieren das Medium wird, durch das ich anderen helfe, die Welt zu verändern.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Impressum",
+        "projects": "Projekte",
+        "skills": "Fähigkeiten",
+        "experience": "Erfahrung"
       }
     },
     "projects": [
       {
         "title": "Animal Shelter",
         "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "description": "Die umfangreichste Anwendung, mit der ich arbeiten konnte. Ich habe viele Technologien gelernt und mein Code wurde von einem großartigen Kurator überprüft. Die Anwendung wickelt alle Adoptionsprozesse ab und ermöglicht die Speicherung aller Beweise für die Adoption von Tieren aus dem Tierheim.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -37,7 +37,7 @@
       {
         "title": "Photography",
         "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "description": "Persönliches Projekt zum Studienfach. Ich war für das Testen einer Fotoanwendung verantwortlich, die Bilder mit gängigen Algorithmen optimiert, die von Grafikeditoren wie Pixlr oder Adobe Photoshop verwendet werden. Ich habe eine Note verdient :)",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -55,61 +55,74 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Take Ten",
+        "startDate": "May 2022",
+        "description": "Eine der ersten Apps, die ich in einem Team bei Code Fellows entwickelt habe! Ich musste eine Front-End-Implementierung für diese App entwickeln, die Benutzereingaben aufnimmt und ein benutzerdefiniertes Training oder eine Reihe von Dehnungen generiert und das Training lokal speichert. Ich habe JavaScript, HTML5 und CSS verwendet, um dieses Projekt auf den Weg zu bringen.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/take-ten/TakeTen-screenshot-1.png",
+          "images/portfolio/take-ten/Slide-2.png",
+          "images/portfolio/take-ten/Slide-3.png",
+          "images/portfolio/take-ten/Slide-4.png",
+          "images/portfolio/take-ten/Slide-5.png",
+          "images/portfolio/take-ten/Slide-6.png",
+          "images/portfolio/take-ten/Slide-7.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/201-DJKM/201-task-tracker",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Code Fellows",
+        "title": "Zertifikat in Python-Programmierung",
+        "years": "04.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Tech 2022"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "Python",
           "JavaScript",
+          "MongoDB",
+          "Express.js",
+          "React",
+          "NodeJS",
+          "REST API",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "HTML5",
+          "CSS 3",
+          "Ubuntu/WSL",
+          "Git/GitHub",
+          "Heroku",
+          "Chrome Dev Tools",
+          "Trello"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Seattle, Melbourne, Budapest",
+        "title": "Verwaltung & Cocktail-Barkeeper",
+        "years": "10.2012 - 07.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Hotel- und Dienstleistungsbranche"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Excel",
+          "Aloha POS",
+          "SquareUp POS",
+          "HostelWorld",
+          "TripAdvisor"
         ]
       }
     ]

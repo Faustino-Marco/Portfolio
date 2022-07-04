@@ -57,10 +57,15 @@
       {
         "title": "Take Ten",
         "startDate": "May 2022",
-        "description": "One of the first apps I developed on a team at Code Fellows! I had to develop front-end implementation for this app that takes in user input and generates a custom workout or set of stretches and stores the workout locally. I used JavaScript, HTML5, and CSS to help get this project off the ground",
+        "description": "One of the first apps I developed on a team at Code Fellows! I had to develop front-end implementation for this app that takes in user input and generates a custom workout or set of stretches and stores the workout locally. I used JavaScript, HTML5, and CSS to help get this project off the ground.",
         "images": [
           "images/portfolio/take-ten/TakeTen-screenshot-1.png",
-          "images/portfolio/take-ten/TakeTen-Footer-shot.png.png"
+          "images/portfolio/take-ten/Slide-2.png",
+          "images/portfolio/take-ten/Slide-3.png",
+          "images/portfolio/take-ten/Slide-4.png",
+          "images/portfolio/take-ten/Slide-5.png",
+          "images/portfolio/take-ten/Slide-6.png",
+          "images/portfolio/take-ten/Slide-7.png"
         ],
         "url": "https://github.com/201-DJKM/201-task-tracker",
         "technologies": [
@@ -81,37 +86,43 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Certificate in Advanced Python Programming",
+        "years": "04.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Tech 2022"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "Python",
           "JavaScript",
+          "MongoDB",
+          "Express.js",
+          "React",
+          "NodeJS",
+          "REST API",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML5",
+          "CSS 3",
+          "Ubuntu/WSL",
+          "Git/GitHub",
+          "Heroku",
+          "Chrome Dev Tools",
+          "Trello"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Seattle, Melbourne, Budapest",
+        "title": "Management & Cocktail Bartending",
+        "years": "10.2012 - 07.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Hospitality"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Excel",
+          "Aloha POS",
+          "SquareUp POS",
+          "HostelWorld",
+          "TripAdvisor"
         ]
       }
     ]
