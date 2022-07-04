@@ -11,7 +11,7 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Tierheim",
         "startDate": "2020",
         "description": "Die umfangreichste Anwendung, mit der ich arbeiten konnte. Ich habe viele Technologien gelernt und mein Code wurde von einem großartigen Kurator überprüft. Die Anwendung wickelt alle Adoptionsprozesse ab und ermöglicht die Speicherung aller Beweise für die Adoption von Tieren aus dem Tierheim.",
         "images": [
@@ -35,7 +35,7 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "Fotografie",
         "startDate": "2018",
         "description": "Persönliches Projekt zum Studienfach. Ich war für das Testen einer Fotoanwendung verantwortlich, die Bilder mit gängigen Algorithmen optimiert, die von Grafikeditoren wie Pixlr oder Adobe Photoshop verwendet werden. Ich habe eine Note verdient :)",
         "images": [
@@ -88,7 +88,7 @@
       {
         "company": "Code Fellows",
         "title": "Zertifikat in Python-Programmierung",
-        "years": "04.2022 - present",
+        "years": "04.2022 - Gegenwart",
         "mainTech": [
           "Tech 2022"
         ],
