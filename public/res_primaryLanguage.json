@@ -55,26 +55,26 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Take Ten",
+        "startDate": "May 2022",
+        "description": "One of the first apps I developed on a team at Code Fellows! I had to develop front-end implementation for this app that takes in user input and generates a custom workout or set of stretches and stores the workout locally. I used JavaScript, HTML5, and CSS to help get this project off the ground",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/take-ten/TakeTen-screenshot-1.png",
+          "images/portfolio/take-ten/TakeTen-Footer-shot.png.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/201-DJKM/201-task-tracker",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       }
