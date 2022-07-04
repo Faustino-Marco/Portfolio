@@ -12,6 +12,6 @@ Estimate of time needed to complete: 2.5hrs
 
 Start time: 7pm 7/3/22
 
-Finish time: _____
+Finish time: 12:30am
 
-Actual time needed to complete: _____
+Actual time needed to complete: 5.5hrs
