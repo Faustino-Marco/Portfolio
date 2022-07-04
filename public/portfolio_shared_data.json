@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Faustino Marco Simpliciano",
-      "titles": [ "Software Developer" ],
+      "titles": [ "The Tallest Dev in Tech" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Faustino-Marco/Faustino-Marco/tree/main",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/faustino-marco/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "marco-image-1.png"
     },
     "skills": {
       "icons": [

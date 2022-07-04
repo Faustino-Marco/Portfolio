@@ -69,6 +69,7 @@ class App extends Component {
       dataType: "json",
       cache: false,
       success: function (data) {
+        console.log(data.basic_info);
         this.setState({ sharedData: data }, () => document.title = `${this.state.sharedData.basic_info.name}`);
       }.bind(this),
       error: function (xhr, status, err) {
@@ -94,13 +95,13 @@ class App extends Component {
             element={<About
               resumeBasicInfo={this.state.resumeData.basic_info}
               sharedBasicInfo={this.state.sharedData.basic_info}
-            />}>
+              />}>
           </Route>
         </Routes>
         <Footer 
           sharedBasicInfo={this.state.sharedData.basic_info}
           applyPickedLanguage={this.applyPickedLanguage} 
-        />  
+          />  
       </Router>
     );
   }
